@@ -1,4 +1,4 @@
-<img width="1157" height="940" alt="image" src="https://github.com/user-attachments/assets/08506c34-15f4-4ec7-8b6b-e7b997d3c865" /># SOFL-Maintainability-Experiment-Dataset
+# SOFL-Maintainability-Experiment-Dataset
 This repository contains the experimental datasets, materials, and analysis artifacts from our study on **quantitative maintainability assessment for SOFL formal specifications**. The dataset is directly associated with the experiments described in our paper:
 > **Design and Implementation of an Automated Maintainability Assessment Tool for SOFL Formal Specifications**
 

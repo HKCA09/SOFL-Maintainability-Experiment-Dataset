@@ -1,0 +1,22 @@
+ID,"1¡¢What is your highest level of education (please select the highest level, including those currently in progress)?",2¡¢What is your current occupation?,3¡¢How many years of experience do you have in software development?,4¡¢How familiar are you with SOFL formal specifications?
+1,Doctoral degree,Student,0-2 years,Intermediate
+2,Bachelor¡¯s degree,Developer,0-2 years,Beginner
+3,Associate¡¯s degree,Student,No experience,Beginner
+4,Associate¡¯s degree,Student,No experience,Beginner
+5,Bachelor¡¯s degree,Developer,0-2 years,Beginner
+6,Master¡¯s degree,Student,0-2 years,Beginner
+7,Bachelor¡¯s degree,Developer,0-2 years,Beginner
+8,Doctoral degree,Student,0-2 years,Beginner
+9,Bachelor¡¯s degree,Developer,0-2 years,Beginner
+10,Doctoral degree,Developer,0-2 years,Beginner
+11,Associate¡¯s degree,Student,No experience,Beginner
+12,Doctoral degree,Developer,0-2 years,Intermediate
+13,Doctoral degree,SOFL Expert,More than 5 years,Advanced
+14,Bachelor¡¯s degree,Developer,0-2 years,Beginner
+15,Associate¡¯s degree,Developer,2-5 years,Beginner
+16,Master¡¯s degree,Maintainer,2-5 years,Beginner
+17,Doctoral degree,Student,0-2 years,Beginner
+18,Doctoral degree,Student,0-2 years,Beginner
+19,Doctoral degree,Student,2-5 years,Beginner
+20,Doctoral degree,SOFL Expert,2-5 years,Advanced
+21,Doctoral degree,Developer,More than 5 years,Intermediate

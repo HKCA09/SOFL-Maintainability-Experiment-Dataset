@@ -19,7 +19,7 @@ This repository contains the experimental datasets, materials, and analysis arti
 - **Measures:** Success rate, time-on-task (median, IQR), errors; UMUX-Lite (0–100), UX-9 (item medians/IQR, agreement %, Cronbach’s α with bootstrap 95% CIs).
 
 - **Technical validation:** Two independent expert annotations + third-expert adjudication to form an expert-consensus reference; agreement quantified via ICC(2,k); tool-to-consensus via ICC(2,1), Bland–Altman bias and 95% limits of agreement, MdAE, MAPE.
-- Material: 6 modules from one SOFL ATM specification (printed text to standardize environment).
+ Material: 6 modules from one SOFL ATM specification (printed text to standardize environment).
 
 ### Experiment II — Validation of Metrics & Rating Methodology
 - **Participants:** 20 total; partial overlap with Experiment I (8 individuals). Newly recruited participants include faculty, engineers, product/operations staff, and graduate students.

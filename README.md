@@ -11,15 +11,15 @@ This repository contains the experimental datasets, materials, and analysis arti
 - **Setting:** Supervised in-lab sessions with a 10-minute standardized briefing; questions limited to metric-operation rules.
 - **Material:** 6 SOFL modules from an ATM specification
 - **Tasks:** T1–T5 tool maintenance workflows (import/inspect, run metrics, prioritize modules, visualize, export).
-  1)**Import & Inspect (critical).** Load the specification and locate a target module(Manage Savings Account). 
-  2)**Run Metrics & Score (critical).** Execute metrics and obtain the overall maintainability score.
-  3)**Prioritize Modules (critical).** Identify modules with the lowest MHV rating and below the overall average through filtering.
-  4)**Inspect the Visualization Page.** Open the visualization page and identify the module with the lowest CC value through the chart.
-  5)**Export the Analysis Table.** Locate the Save Analysis Table button in the navigation bar.
+  1) **Import & Inspect (critical).** Load the specification and locate a target module(Manage Savings Account). 
+  2) **Run Metrics & Score (critical).** Execute metrics and obtain the overall maintainability score.
+  3) **Prioritize Modules (critical).** Identify modules with the lowest MHV rating and below the overall average through filtering.
+  4) **Inspect the Visualization Page.** Open the visualization page and identify the module with the lowest CC value through the chart.
+  5) **Export the Analysis Table.** Locate the Save Analysis Table button in the navigation bar.
 - **Measures:** Success rate, time-on-task (median, IQR), errors; UMUX-Lite (0–100), UX-9 (item medians/IQR, agreement %, Cronbach’s α with bootstrap 95% CIs).
 
 - **Technical validation:** Two independent expert annotations + third-expert adjudication to form an expert-consensus reference; agreement quantified via ICC(2,k); tool-to-consensus via ICC(2,1), Bland–Altman bias and 95% limits of agreement, MdAE, MAPE.
-- **Material:** 6 modules from one SOFL ATM specification (printed text to standardize environment).
+- Material: 6 modules from one SOFL ATM specification (printed text to standardize environment).
 
 ### Experiment II — Validation of Metrics & Rating Methodology
 - **Participants:** 20 total; partial overlap with Experiment I (8 individuals). Newly recruited participants include faculty, engineers, product/operations staff, and graduate students.
